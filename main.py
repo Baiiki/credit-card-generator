@@ -2,7 +2,7 @@ from math import exp
 from os import system
 import random, time
 
- print(""" _______           __ __ __       __    
+print(""" _______           __ __ __       __    
 |       \         |  \  \  \     |  \   
 | ▓▓▓▓▓▓▓\ ______  \▓▓\▓▓ ▓▓   __ \▓▓   
 | ▓▓__/ ▓▓|      \|  \  \ ▓▓  /  \  \   
