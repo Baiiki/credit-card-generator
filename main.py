@@ -2,6 +2,20 @@ from math import exp
 from os import system
 import random, time
 
+        print(""" _______           __ __ __       __    
+|       \         |  \  \  \     |  \   
+| ▓▓▓▓▓▓▓\ ______  \▓▓\▓▓ ▓▓   __ \▓▓   
+| ▓▓__/ ▓▓|      \|  \  \ ▓▓  /  \  \   
+| ▓▓    ▓▓ \▓▓▓▓▓▓\ ▓▓ ▓▓ ▓▓_/  ▓▓ ▓▓   
+| ▓▓▓▓▓▓▓\/      ▓▓ ▓▓ ▓▓ ▓▓   ▓▓| ▓▓   
+| ▓▓__/ ▓▓  ▓▓▓▓▓▓▓ ▓▓ ▓▓ ▓▓▓▓▓▓\| ▓▓__ 
+| ▓▓    ▓▓\▓▓    ▓▓ ▓▓ ▓▓ ▓▓  \▓▓\ ▓▓  \\
+ \▓▓▓▓▓▓▓  \▓▓▓▓▓▓▓\▓▓\▓▓\▓▓   \▓▓\▓▓\▓▓
+                                        
+                                        
+                                        
+""")
+
 
 print("This generator only generates Visa credit cards.")
 nb_nitros = int(input("Veuillez saisir le nombre de cartes à générer: "))
